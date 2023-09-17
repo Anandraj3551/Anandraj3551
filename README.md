@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anand Kumar</h1>
+<h1 align="center">Hello There👋, I'm Anand Kumar</h1>
 <h3 align="center">Experienced full-stack developer with expertise in HTML, CSS, JS, and React.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
