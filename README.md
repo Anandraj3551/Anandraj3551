@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full Stack Development(HTML,CSS,JAVASCRIPT,REACT)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x3dtvNCEStglwf2o-T9QkoBanIxg_PTd/view](https://drive.google.com/file/d/1x3dtvNCEStglwf2o-T9QkoBanIxg_PTd/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19q0XmsYRVvfSoLPnZpp7Mvf31wNk4uB7/view](https://drive.google.com/file/d/19q0XmsYRVvfSoLPnZpp7Mvf31wNk4uB7/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
