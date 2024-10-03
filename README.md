@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandraj3551&label=Profile%20views&color=0e75b6&style=flat" alt="anandraj3551" /> </p>
 
-- 🌱 I’m currently learning **Software Testing & Blockchain Technology**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://anandraj3551.github.io/Portfolio/](https://anandraj3551.github.io/Portfolio/)
 
