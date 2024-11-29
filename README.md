@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anandraj3551.github.io/Portfolio/](https://anandraj3551.github.io/Portfolio/)
 
-- 💬 Ask me about **Full Stack Development(HTML,CSS,JAVASCRIPT,REACT)**
+- 💬 Ask me about **Full Stack Development(HTML,CSS,JAVASCRIPT,REACT,TAILWIND,GIT,GITHUB)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19q0XmsYRVvfSoLPnZpp7Mvf31wNk4uB7/view](https://drive.google.com/file/d/19q0XmsYRVvfSoLPnZpp7Mvf31wNk4uB7/view)
 
